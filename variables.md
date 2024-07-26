@@ -12,7 +12,7 @@ Choosing clear and meaningful variable names is crucial for writing readable and
 
 ### Declaring vs. Assigning
 
-One common misconception is that Python requires declaring variables before using them. This is not the case! In Python, variables are created the moment you assign a value to them using the equal sign (`=`). 
+One common misconception is that Python requires declaring variables before using them. This is not the case! In Python, variables are created the moment you assign a value to them using the **assignment operator** (otherwise known in Math class as the equal sign (`=`). 
 
 Here's the difference:
 
